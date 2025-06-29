@@ -1,3 +1,3 @@
 # This is a FLipkart Clone built using HTML and CSS
 
-## All Rights Reserved @2025 
+## Deployed Link on vercel: https://flipkart-clone-pi-lime.vercel.app/
